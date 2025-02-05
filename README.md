@@ -27,7 +27,7 @@ All tables that are initially created to read city data by python file "create_d
    2. images files
       1. [air-imgs per suburb](https://opendata.leipzig.de/dataset/luftbild-2022-stadt-leipzig) remark: our networks were trained on a resolution of 10cm/px, the openly available data is 20cm/px
       2. cyclomedia /street view images are downloaded in the process
-   3. [model files](https://cloud.scadsai.uni-leipzig.de/index.php/s/HY4oEWz42C3mQsT) - pw: parking-sdsc24
+   3. model files - *models had to be removed due to copyright on the files they were trained on*
       1. object detection model for air images
       2. object detection model for streetview images
       3. detection model for driveways (not implemented in this version)
